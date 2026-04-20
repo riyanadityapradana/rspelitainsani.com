@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RS Pelita Insani (rspelita)
 
 Ringkasan singkat dan instruksi cepat menjalankan proyek lokal (Windows + XAMPP).
@@ -52,3 +53,7 @@ mysql -u root -e "CREATE DATABASE IF NOT EXISTS rspe_db CHARACTER SET utf8mb4 CO
 
 ---
 _Di-generate otomatis oleh GitHub Copilot pada analisis awal proyek._
+=======
+# rspelitainsani.com
+Website RS PELITA INSANI
+>>>>>>> 415080c08d4eeed2903ca60d286751e46865e89d
